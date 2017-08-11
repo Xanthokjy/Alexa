@@ -1,2 +1,2 @@
 # Alexa
-Alexa stuff &amp; things
+Alexa stuff &amp; things.
